@@ -1,6 +1,6 @@
 # sSMLM-protocol (MAP Lab Modified Version)
 
-A modified version of [sSMLM-protocol](https://github.com/FOIL-NU/sSMLM-protocol) adapted for MAP Lab workflows with core functionality retained for specific use cases.
+A modified version of [sSMLM-protocol](https://github.com/FOIL-NU/sSMLM-protocol) adapted for [MAP Lab](https://sites.google.com/view/mapperncsu) workflows with core functionality retained for specific use cases.
 
 ## Original Description
 Spectroscopic Single Molecule Localization Microscopy (sSMLM) extends traditional single molecule localization microscopy (SMLM) by adding a spectroscopic dimension to the localization process. This allows for the identification of different fluorophores based on their emission spectra, enabling multiplexed imaging of multiple targets in a single sample. This repository contains the accompanying software for processing sSMLM images captured with the DWP system, described in Song et al. 2022.
